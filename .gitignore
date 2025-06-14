@@ -1,0 +1,9 @@
+# Ambiente Virtual
+venv/
+__pycache__/
+
+# Banco de dados local
+instance/
+
+# Arquivos de IDE
+.vscode/
